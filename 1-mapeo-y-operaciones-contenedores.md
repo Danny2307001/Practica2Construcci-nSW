@@ -44,7 +44,7 @@ Muestra una lista detallada de archivos y directorios, incluyendo información c
 ```
 docker exec jenkins-server ls -l
 ```
-![Lista](img/ls.PNG)
+![Lista](img/ls.png)
 
 
 ### Para ejecutar un shell interactivo en un contenedor de Docker especificado.

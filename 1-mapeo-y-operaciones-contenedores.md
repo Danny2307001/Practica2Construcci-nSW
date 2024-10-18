@@ -80,7 +80,7 @@ Ejecutar
 whoami
 ```
 
-![Sistema](img/Found.PNG)
+![Sistema](img/Found.png)
 
 **Si se visualiza el mensaje command not found, considerar**
 El problema se debe a que no se ha asignado un terminal de salida al contenedor al ejecutar el comando. Cuando usas docker exec -i jenkins-server /bin/bash en Windows, el comando se ejecuta pero no hay un terminal asignado para mostrar la salida del comando ls.
@@ -109,7 +109,7 @@ Paso 2: Ingresar dirección /var/jenkins_home/secrets/initialAdminPassword
 cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 
-![Navegador](img/Ingresado.PNG)
+![Navegador](img/Ingresado.png)
 
 **Para este punto no es necesario continuar con la instalación de Jenkins**
 

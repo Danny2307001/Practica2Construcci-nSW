@@ -68,7 +68,7 @@ Para listar las bases de datos existentes en el contenedor de MySQL, accedemos a
 docker exec -it Conmysql mysql -uroot -p
 ```
 Ingresamos la contraseña antes indicada en el .env
-![Contenedor](img/Contraseña.png)
+![Contenedor](img/Contraseña .png)
 
 Una vez dentro del cliente de MySQL, puedes ejecutar el siguiente comando:
 ```

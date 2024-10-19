@@ -64,7 +64,7 @@ Contenedor 2 con red net-curso01
 ```
 docker run -d --name contenedor2 --network net-curso01 nginx:alpine
 ```
-Contenedor 3 con net-curso01 y net-curso02
+Contenedor 3 con net-curso01 y net-curso02.
 Primero lo conectamos con net-curso01
 ```
 docker run -d --name contenedor3 --network net-curso01 nginx:alpine
@@ -83,8 +83,11 @@ docker run -d --name contenedor4 --network net-curso02 nginx:alpine
 
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
 RED net-curso01
-![CONEXIONES](img/conexion01.png)
+
+![CONEXIONES](img/conexion01.png
+
 RED net-curso02
+
 ![CONEXIONES](img/conexion02.png)
 ### Para eliminar las redes creadas
 ```

@@ -1,3 +1,2 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Mi aprendizaje en Docker ha crecido significativamente, adquiriendo nuevos comandos que me han permitido mejorar mis habilidades. He reforzado el concepto de mapeo de puertos, aprendiendo a utilizar el flag -p para realizar un mapeo adecuado y comprender mejor cómo Docker gestiona los puertos. Además, me he familiarizado con la creación y gestión de redes, lo que ha expandido mi capacidad para conectar contenedores de manera eficiente. Aunque siento que he avanzado, reconozco que necesito seguir profundizando en el uso de variables de entorno para optimizar mis configuraciones.

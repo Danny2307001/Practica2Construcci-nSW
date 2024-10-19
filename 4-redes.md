@@ -84,7 +84,7 @@ docker run -d --name contenedor4 --network net-curso02 nginx:alpine
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
 RED net-curso01
 
-![CONEXIONES](img/conexion01.png
+![CONEXIONES](img/conexion01.png)
 
 RED net-curso02
 
